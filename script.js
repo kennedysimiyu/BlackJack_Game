@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head
-		
-	</head>
-	<body>
-		<h1>My Black Jack Game...</h1>
-		<script>
-		//
+//
 //Black Jack Game
 //By Kennedy simiyu Manyonge
 //
@@ -19,6 +11,3 @@ console.log("Welcome to BlackJack");
 console.log("you are delt with: ");
 console.log(" " + card1);
 console.log(" " + card2);
-</script>
-	</body>
-</html>
